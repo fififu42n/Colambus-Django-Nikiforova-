@@ -1,0 +1,19 @@
+# Виртуальное окружение
+ll_env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# База данных и статические файлы
+db.sqlite3
+staticfiles/
+
+# Секреты и настройки сервера
+.env
+
+# IDE
+.idea/
+.vscode/
